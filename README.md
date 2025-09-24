@@ -1,4 +1,4 @@
-# Wendell-Junior
+# Wendell8708
 <h1 align="center">Hi 👋, I'm Wendell Junior</h1>
 <h3 align="center">A passionate back-end developer from Brazil</h3>
 
